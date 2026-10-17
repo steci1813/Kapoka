@@ -1,0 +1,36 @@
+KAPÔKA V3 — BUDGET PERSONNEL EN ARIARY
+=====================================
+
+INSTALLATION
+- Extraire Kapoka_application_budget_V3.zip dans un dossier.
+- Ouvrir Kapoka_Budget.html avec Chrome, Edge ou Firefox.
+- Pas de compte ni d'Internet nécessaires.
+
+NOUVEAU : CLÔTURE DU MOIS / REMISE A ZERO
+- Dans « Vue d'ensemble » ou « Mes dépenses », cliquer sur
+  « Clôturer et remettre à zéro ».
+- Le bouton concerne les dépenses saisies jusqu'au mois affiché inclus.
+  Si le mois est en cours, la clôture reste possible après confirmation.
+- L'application indique le nombre d'achats et leur montant.
+- Cocher la case de confirmation, puis confirmer.
+- Les dépenses actives sont déplacées vers une archive ; les compteurs de
+  dépenses, graphiques et consommations des budgets concernés repartent à zéro.
+- Les plafonds de budgets, salaire, dettes, coupures du portefeuille, montants
+  de banque et Orange Money restent inchangés.
+- Les achats passés restent pris en compte pour calculer les soldes réels :
+  une clôture ne remet pas de l'argent fictif dans le portefeuille ni la banque.
+- Les archives sont consultables et exportables en CSV depuis « Sauvegardes ».
+- Une dépense effectuée après une clôture apparaît dans une nouvelle période active.
+
+IMPORTANT : SAUVEGARDE
+Avant de changer de fichier ou de navigateur, ouvrir l'ancienne version et
+exporter la sauvegarde JSON dans « Sauvegardes ». Dans la V3, réimporter le JSON.
+Les formats de sauvegarde V1, V2 et V3 sont acceptés. Le JSON de V3 inclut les archives.
+
+À NOTER
+- La clôture est manuelle (l'application ne se lance pas seule à minuit).
+- Aucune dépense archivée n'est supprimée. Une « Réinitialisation totale » dans
+  les réglages, elle, efface également les archives.
+- Les informations sont stockées localement dans le navigateur et peuvent être
+  perdues si les données du navigateur sont effacées. Sauvegarder régulièrement.
+- Les comptes banque et Orange Money ne sont pas synchronisés avec les services.
